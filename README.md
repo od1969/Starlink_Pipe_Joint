@@ -3,6 +3,7 @@ Created by od_1969
 X/Twitter https://twitter.com/od_1969  
 
 能登半島地震、被災地支援用です。  
+Use it to support the areas affected by the Noto Peninsula Earthquake.
   
 Starlink 標準(Rectangular) アンテナを単管パイプに取り付けるためのジョイントになります。  
 単管パイプ、Starlinkアンテナは付属しません。  
