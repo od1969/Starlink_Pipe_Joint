@@ -18,5 +18,5 @@ ABS,ASAでのFFF/FDM 3Dプリンタでの3Dプリントを想定しています�
 3D model is distributed under CC BY-NC-SA 4.0 license.  
   
 CC BY-SA 4.0  
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja  
